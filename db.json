@@ -1,0 +1,23 @@
+
+
+  [{"id":1,"title":"React Developer","company":"Spiderworks Technologies","place":"Kochi","salary":30000},
+    {"id":2,"title":"Software internship","company":"CB Tech","place":" Banglore","salary": 15000},
+    {"id":3,"title":"Developer-III Software","company":"UST Global","place":"Chennai","salary": 25000},
+    {"id":4,"title":"Python Developer","company":"KENPRIMO","place":"Trivandrum","salary": 30000},
+    {"id":5,"title":"Junior Software Eng","company":"CaddyCode","place":"Chennai","salary": 25000},
+    {"id":6,"title":"Angular Developer","company":"Bodh Management","place":"Calicut","salary": 25000},
+    {"id":7,"title":"Web Developer Intern","company":"WebSoluLabs","place":" Mumbai","salary": 20000},
+    {"id":8,"title":"Jr. Software Engineer","company":"Norden Communication","place":"  Trivandrum","salary": 20000},
+    {"id":9,"title":"Software Trainee","company":"Claysis","place":"Kochi","salary": 25000},
+    {"id":10,"title":"Technical Intern","company":"Turbolab","place":"Maharashtra","salary": 20000},
+    {"id":11,"title":"INTERN","company":"Jonas Software","place":"Banglore","salary": 25000},
+    {"id":12,"title":"Jr. Software Engineer","company":"NeoTio Communication","place":"Trivandrum","salary": 40000},
+    {"id":13,"title":"React Developer","company":"Soften Technologies","place":"Chennai","salary": 25000},
+    {"id":14,"title":"Web Developer","company":"Etnus","place":"Calicut","salary": 25000},
+    {"id":15,"title":"Software Tester","company":"UST Global","place":"Trivandrum","salary": 25000},
+    {"id":16,"title":"Dev-oops","company":"Norden Communication","place":"Trivandrum","salary": 40000},
+    {"id":17,"title":"Technical Intern","company":"Euros","place":"Maharashtra","salary": 20000},
+    {"id":18,"title":"INTERN","company":"Jonas Software","place":"Banglore","salary": 25000},
+    {"id":19,"title":"Jr. Software Engineer","company":"NeoTio Communication","place":"Trivandrum","salary": 40000},
+    {"id":20,"title":"Associate Developer","company":"Geo Communication","place":"Chennai","salary": 30000}
+    ]
